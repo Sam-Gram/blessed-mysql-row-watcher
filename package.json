@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sam-Gram/blessed-mysql-row-watcher/issues"
   },
-  "homepage": "https://github.com/Sam-Gram/blessed-mysql-row-watcher#readme"
+  "homepage": "https://github.com/Sam-Gram/blessed-mysql-row-watcher#readme",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
 }

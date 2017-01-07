@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Sam-Gram/blessed-mysql-row-watcher#readme",
   "dependencies": {
-    "blessed": "^0.1.81"
+    "blessed": "^0.1.81",
+    "mysql": "^2.12.0"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",

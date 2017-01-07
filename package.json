@@ -1,0 +1,19 @@
+{
+  "name": "blessed-mysql-row-watcher",
+  "version": "1.0.0",
+  "description": "A watcher a for a row of mysql data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sam-Gram/blessed-mysql-row-watcher.git"
+  },
+  "author": "Sam Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sam-Gram/blessed-mysql-row-watcher/issues"
+  },
+  "homepage": "https://github.com/Sam-Gram/blessed-mysql-row-watcher#readme"
+}
